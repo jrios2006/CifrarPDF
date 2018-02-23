@@ -7,7 +7,7 @@ El programa usa 4 librerías para su funcionamiento
 * esasygui (para la elección del dichero en entorno gráfico)
 * unicodecsv (para grabación del log con caracteres unicode en el nombre del fichero)
 * pypdf2 (para el cifrado del fichero PDF)
-*cx_Freeze (para generar un archivo ejecutable, ver el fichero ejecutar.py)
+* cx_Freeze (para generar un archivo ejecutable, ver el fichero ejecutar.py)
 
 ## Entornos probados
 El programa se ha probado en entornos Windows y GNU/Linux. Es posible que los antivirus como Panda cancelen la ejecución del programa.
